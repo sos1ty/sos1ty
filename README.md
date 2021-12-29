@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sos1ty
 - 👀 I’m interested in creating bots for discord
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on WonderCraft
+- 💞️ I’m looking to collaborate on sos1ty
 - 📫 How to reach me my discord: Я РЫБКА#3185
 
 <!---
