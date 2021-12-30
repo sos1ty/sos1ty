@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sos1ty
+- 👋 Hi, I’m @soc1ty
 - 👀 I’m interested in creating bots for discord
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on sos1ty
